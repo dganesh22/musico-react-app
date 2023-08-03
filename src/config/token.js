@@ -1,0 +1,3 @@
+const key = "BQDp8NhBVSflkJ_ThP9ajRR8epPfQpOdlMiajIXDSfmU2pKeuZluUUZbPRA4OiioPV2qoUVQtWfb0XLQMSXZbWo_zXwAhYNcI3g4-2-n2X6mJH5hyPatVJWrKIbEk-79aq42Rz0VmWLJ1v55UL8PZUAqU1rbnhGJ6QERX6nhaN1aJmBoowNoy_6w4i2v4FbXIaiGPfrM-ccx01rOMEfEGbGbIrsq";
+
+export default key

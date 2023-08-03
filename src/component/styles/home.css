@@ -1,0 +1,11 @@
+
+#home-banner {
+    height: 100vh;
+    background: url('https://img.freepik.com/free-vector/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg?w=1060&t=st=1691040850~exp=1691041450~hmac=83e819c4bbe06a361b53a006e366629d37fca74dd969c6feba5e87b400d6791a');
+    background-position: center;
+    background-size: cover;
+}
+
+.container {
+    height: 100%;
+}
