@@ -14,7 +14,7 @@ function App(props) {
                 <ToastContainer autoClose={4000} position={'top-right'} />
                 <Routes>
                       <Route path={`/`} element={<Home/>} />
-                      <Route path={`/music`} element={<Music/>} />
+                      <Route path={`/music/artist/:artistId`} element={<Music/>} />
                       <Route path={`/contact`} element={<Contact/>} />
                       <Route path={`/*`} element={<Pnf/>} />
                 </Routes>

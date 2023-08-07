@@ -16,9 +16,7 @@ function Menu(props) {
                         <li className="nav-item">
                             <NavLink to={`/`} className="nav-link">Home</NavLink>
                         </li>
-                        <li className="nav-item">
-                            <NavLink to={`/music`} className="nav-link">Music</NavLink>
-                        </li>
+                       
                         <li className="nav-item">
                             <NavLink to={`/contact`} className="nav-link">Contact</NavLink>
                         </li>
